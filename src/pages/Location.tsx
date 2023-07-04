@@ -69,7 +69,7 @@ const Location = () => {
                 <p className="font-bold">
                   Contact
                 </p>
-                <p>P : (02) 6720 9092 </p>
+                <p>P : (03) 6720 9092 </p>
                 <p>M : contact@designo.au</p>
               </div>
             </div>
