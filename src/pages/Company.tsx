@@ -90,7 +90,9 @@ const Company = () => {
           style={{
             backgroundImage: `url(${app_design})`,
           }}>
-          <a href="/app_design">
+          <a
+            href="/app_design"
+            className="w-full h-full flex flex-col justify-center items-center">
             <p className="font-medium  leading-7 text-[40px] font-['Jost'] ">
               App Design
             </p>
@@ -104,7 +106,9 @@ const Company = () => {
           style={{
             backgroundImage: `url(${graphic_design})`,
           }}>
-          <a href="/graphic_design">
+          <a
+            href="/graphic_design"
+            className="w-full h-full flex flex-col justify-center items-center">
             <p className="font-medium  leading-7 text-[40px] font-['Jost'] ">
               Graphic Design
             </p>
